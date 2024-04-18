@@ -1,0 +1,22 @@
+
+2024-04-18 12:49:39: [SERVER] Successfully connected to the server
+2024-04-18 12:49:39: [SERVER] user1 was added to the chat
+2024-04-18 12:49:44: user1:hi
+2024-04-18 12:49:44: [user1] hi
+2024-04-18 12:50:02: [SERVER] Successfully connected to the server
+2024-04-18 12:50:02: [SERVER] user2 was added to the chat
+2024-04-18 12:50:02: [SERVER] user2 was added to the chat
+2024-04-18 12:50:12: user2:hey
+2024-04-18 12:50:12: [user2] hey
+2024-04-18 12:50:12: [user2] hey
+2024-04-18 12:50:24: [SERVER] Successfully connected to the server
+2024-04-18 12:50:24: [SERVER] user3 was added to the chat
+2024-04-18 12:50:24: [SERVER] user3 was added to the chat
+2024-04-18 12:50:29: user3:hello
+2024-04-18 12:50:29: [user3] hello
+2024-04-18 12:50:29: [user3] hello
+2024-04-18 12:50:29: [user3] hello
+2024-04-18 16:04:12: [SERVER] Successfully connected to the server
+2024-04-18 16:04:12: [SERVER] user1 was added to the chat
+2024-04-18 16:04:16: user1:hello
+2024-04-18 16:04:16: [user1] hello
